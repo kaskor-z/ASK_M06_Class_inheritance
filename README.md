@@ -1,0 +1,1 @@
+# ASK_M06_Class_inheritance
